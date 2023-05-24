@@ -2,6 +2,26 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+# AR Homework
+
+This is a simple AR homework project that uses Vite, TypeScript, Vue3, NaiveUI, and Mind-AR to quickly implement AR functionality. 
+
+## Testing
+
+Testing images can be found in the `src/test` directory.
+
+## 3D Models
+
+3D model assets were sourced from [Sketchfab](https://sketchfab.com/feed).
+
+## Acknowledgements
+
+Special thanks to [NaiveUI](https://www.naiveui.com/) and [Mind-AR](https://www.mind-ar.com/) for their nice work and contributions to this project.
+
+
+---
+
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
