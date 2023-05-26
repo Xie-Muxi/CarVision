@@ -16,7 +16,7 @@
             <n-modal v-model:show="showInfo">
                 <n-card title="Detail" :bordered="false" size="small" role="dialog" aria-modal="true"
                     style="width: 70%; right:25% position: fixed;  bottom: 20%">
-                    <template #header-extra>
+            <template #header-extra>
 
                     </template>
                     <n-select v-model:value="value" :options="infoOptions" size="small" style="font-size: 14px;" />
@@ -27,12 +27,11 @@
                     </template>
                 </n-card>
             </n-modal>
-
         </div>
 
         <div v-show="isShowCamera">
             <div v-show="isShowCamera">
-                <a-scene mindar-image="imageTargetSrc: src/assets/carvision.mind" color-space="sRGB"
+                <a-scene mindar-image="imageTargetSrc: src/assets/carvision.mind; maxTrack: 2" color-space="sRGB"
                     renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false"
                     device-orientation-permission-ui="enabled: false">
                     <a-assets>
