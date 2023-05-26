@@ -1,9 +1,8 @@
 # CarVision
 
-This template should help get you started developing with Vue 3 in Vite.
+### This template should help get you started developing with Vue 3 in Vite.
 
-# AR Homework
-
+### AR Homework
 This is a simple AR homework project that uses Vite, TypeScript, Vue3, NaiveUI, and Mind-AR to quickly implement AR functionality. 
 
 ## Testing
