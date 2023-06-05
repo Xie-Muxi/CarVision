@@ -15,7 +15,7 @@ Testing images can be found in the `src/test` directory.
 
 ## Acknowledgements
 
-Special thanks to [NaiveUI](https://www.naiveui.com/) and [Mind-AR](https://www.mind-ar.com/) for their nice work and contributions to this project.
+Special thanks to [NaiveUI](https://www.naiveui.com/) and [Mind-AR](https://www.mind-ar.com/) for their nice work.
 
 
 ---
